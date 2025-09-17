@@ -49,4 +49,4 @@
 
 ---
 
-⭐️ From Mayank(https://github.com/Mayank-Chandra)  
+⭐️ From [Mayank](https://github.com/Mayank-Chandra)  
