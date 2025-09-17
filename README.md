@@ -8,7 +8,7 @@
 
 ## 🌟 About Me  
 
-- 🎓 Master’s student in **Automation & Robotics** at **TU Dortmund University**  
+- 🎓 Master’s student in **Automation & Robotics** at **Technische Universität Dortmund**  
 - 💻 Skilled in **Python**, **C++**, **ROS**, **ROS2**, and other robotics software  
 - 🤖 Passionate about building intelligent robotic systems and exploring AI in automation  
 - 📸 When I’m not coding, you’ll find me with a camera capturing the world around me  
@@ -43,10 +43,10 @@
 
 ## 📬 Let’s Connect  
 
-- 🌐 [LinkedIn](https://www.linkedin.com/)  
+- 🌐 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/mayank-chandra-92420122a/))  
 - ✉️ mayankoutlaw007@gmail.com
 - 🖼️ Maybe I’ll share some of my **photography** here too 😉  
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)  
+⭐️ From Mayank(https://github.com/Mayank-Chandra)  
