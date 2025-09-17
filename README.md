@@ -1,22 +1,52 @@
-## Hello Everyone!!
+# 📸 Hello World, I’m [Your Name]! 👋  
 
-<!--
-**Mayank-Chandra/Mayank-Chandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)  
+![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)  
+![GitHub stars](https://img.shields.io/github/stars/yourusername?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am Mayank Chandra,from New Delhi,India currently studying Masters in Automation and Robotics in Technische Universität Dortmund. <br>
+## 🌟 About Me  
 
-Here's a brief Intro about me  :smile: : <br>
--->Totally obsessed with robotics and AI,ML. :stuck_out_tongue_closed_eyes: <br>
--->Besides Coding, I love photography and Aesthetic Arts. <br>
--->I am currently trying to learn about ROS and ROS2 and other robotics related codes and simulations.<br>
+- 🎓 Master’s student in **Automation & Robotics** at **TU Dortmund University**  
+- 💻 Skilled in **Python**, **C++**, **ROS**, **ROS2**, and other robotics software  
+- 🤖 Passionate about building intelligent robotic systems and exploring AI in automation  
+- 📸 When I’m not coding, you’ll find me with a camera capturing the world around me  
+
+---
+
+## 🛠️ Tech Toolbox  
+
+💻 **Languages & Tools**  
+- 🐍 Python | ⚙️ C++  
+- 🤖 ROS | 🚀 ROS2  
+- 📐 MATLAB | 🛠️ OpenCV  
+- 🖥️ Linux | 🐧 Ubuntu | 🐙 Git  
+
+---
+
+## 🎯 Current Focus  
+
+- 🔬 Working on **robotics & computer vision projects**  
+- 📚 Learning advanced AI & automation techniques  
+- 🏗️ Exploring **simulation, control systems, and autonomous robotics**  
+
+---
+
+## 🌈 Fun Facts  
+
+- 📸 I love **photography** – framing life through a lens is my creative outlet  
+- 🌍 Always curious about new cultures, technology, and innovation  
+- ☕ Big fan of coffee-fueled coding sessions!  
+
+---
+
+## 📬 Let’s Connect  
+
+- 🌐 [LinkedIn](https://www.linkedin.com/)  
+- ✉️ mayankoutlaw007@gmail.com
+- 🖼️ Maybe I’ll share some of my **photography** here too 😉  
+
+---
+
+⭐️ From [Your Name](https://github.com/yourusername)  
