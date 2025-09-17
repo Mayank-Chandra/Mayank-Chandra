@@ -50,3 +50,6 @@
 ---
 
 ⭐️ From [Mayank](https://github.com/Mayank-Chandra)  
+
+Tools that I learned on the way 😃 <br>
+ <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
