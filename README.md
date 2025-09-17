@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Mayank Chandra,from New Delhi,India currently studying Masters in Automation and Robotics in Technische Universität Dortmund. 
+I am Mayank Chandra,from New Delhi,India currently studying Masters in Automation and Robotics in Technische Universität Dortmund. <br>
 
-Here's a brief Intro about me  :smile: :
--->Totally obsessed with robotics and AI,ML. :stuck_out_tongue_closed_eyes:
--->Besides Coding, I love photography and Aesthetic Arts.
--->I am currently trying to learn about ROS and ROS2 and other robotics related codes and simulations.
+Here's a brief Intro about me  :smile: : <br>
+-->Totally obsessed with robotics and AI,ML. :stuck_out_tongue_closed_eyes: <br>
+-->Besides Coding, I love photography and Aesthetic Arts. <br>
+-->I am currently trying to learn about ROS and ROS2 and other robotics related codes and simulations.<br>
