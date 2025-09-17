@@ -1,8 +1,8 @@
-# 📸 Hello World, I’m [Your Name]! 👋  
+# 📸 Hello World, I’m Mayank! 👋  
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)  
-![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/yourusername?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Mayank-Chandra&color=blueviolet)  
+![GitHub followers](https://img.shields.io/github/followers/Mayank-Chandra?label=Followers&style=social)  
+![GitHub stars](https://img.shields.io/github/stars/Mayank-Chandra?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ---
 
