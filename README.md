@@ -43,7 +43,7 @@
 
 ## 📬 Let’s Connect  
 
-- 🌐 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/mayank-chandra-92420122a/))  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mayank-chandra-92420122a/)
 - ✉️ mayankoutlaw007@gmail.com
 - 🖼️ Maybe I’ll share some of my **photography** here too 😉  
 
