@@ -79,8 +79,3 @@ Tools that I learned on the way 😃 <br>
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-![Mayank#s GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank-Chandra&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Chandra&layout=compact&theme=tokyonight)
