@@ -78,6 +78,3 @@ Tools that I learned on the way 😃 <br>
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-![snake gif](https://github.com/Mayank-Chandra/Mayank-Chandra/blob/output/github-contribution-grid-snake.svg)
-
-
