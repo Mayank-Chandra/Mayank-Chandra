@@ -1,4 +1,4 @@
-# Hello Everyone!! My name is Mayank
+# Hello Everyone!! My name is Mayank.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mayank-Chandra&color=blueviolet)  
 ![GitHub followers](https://img.shields.io/github/followers/Mayank-Chandra?label=Followers&style=social)  
@@ -32,8 +32,7 @@
 ##  Let’s Connect  
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mayank-chandra-92420122a/)
-- ✉️ mayankoutlaw007@gmail.com
-- 🖼️ Maybe I’ll share some of my **photography** here too 😉  
+- ✉️ mayank.chandra1612@gmail.com
 
 ---
 
@@ -41,7 +40,7 @@ From [Mayank](https://github.com/Mayank-Chandra)
 
 
 ---
-Tools that I learned on the way 😃 <br>
+Tools that I learned throughout my journey... <br>
 ---
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
