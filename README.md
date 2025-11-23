@@ -1,4 +1,4 @@
-# 📸 Hello World, I’m Mayank! 👋  
+# Hello Everyone my name is Mayank
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mayank-Chandra&color=blueviolet)  
 ![GitHub followers](https://img.shields.io/github/followers/Mayank-Chandra?label=Followers&style=social)  
@@ -6,42 +6,30 @@
 
 ---
 
-## 🌟 About Me  
+## About Me  
 
-- 🎓 Master’s student in **Automation & Robotics** at **Technische Universität Dortmund**  
-- 💻 Skilled in **Python**, **C++**, **ROS**, **ROS2**, and other robotics software  
-- 🤖 Passionate about building intelligent robotic systems and exploring AI in automation  
-- 📸 When I’m not coding, you’ll find me with a camera capturing the world around me  
-
----
-
-## 🛠️ Tech Toolbox  
-
-💻 **Languages & Tools**  
-- 🐍 Python | ⚙️ C++  
-- 🤖 ROS | 🚀 ROS2  
-- 📐 MATLAB | 🛠️ OpenCV  
-- 🖥️ Linux | 🐧 Ubuntu | 🐙 Git  
+- Master’s student in **Automation & Robotics** at **Technische Universität Dortmund**  
+- Skilled in **Python**, **C++**, **ROS**, **ROS2**, and other robotics software  
+- Passionate about building intelligent robotic systems and exploring AI in automation  
+- When I’m not coding, you’ll find me with a camera capturing the world around me  
 
 ---
 
-## 🎯 Current Focus  
+## Tech Toolbox  
 
-- 🔬 Working on **robotics & computer vision projects**  
-- 📚 Learning advanced AI & automation techniques  
-- 🏗️ Exploring **simulation, control systems, and autonomous robotics**  
-
----
-
-## 🌈 Fun Facts  
-
-- 📸 I love **photography** – framing life through a lens is my creative outlet  
-- 🌍 Always curious about new cultures, technology, and innovation  
-- ☕ Big fan of coffee-fueled coding sessions!  
+ **Languages & Tools**  
+- Python  
+- ROS and ROS2  
+- MATLAB
+- OpenCV  
+- Linux
+- Ubuntu
+- Git  
 
 ---
 
-## 📬 Let’s Connect  
+
+##  Let’s Connect  
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mayank-chandra-92420122a/)
 - ✉️ mayankoutlaw007@gmail.com
@@ -49,7 +37,7 @@
 
 ---
 
-⭐️ From [Mayank](https://github.com/Mayank-Chandra)  
+From [Mayank](https://github.com/Mayank-Chandra)  
 
 
 ---
