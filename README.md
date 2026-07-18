@@ -42,15 +42,15 @@ From [Mayank](https://github.com/Mayank-Chandra)
 ## Currently working on
 
 
-# Decentralized multi-robot formation control (e-puck robots, Webots) using CasADi/IPOPT MPC, with emitter/receiver communication and connectivity maintenance between agents.
-# Extending TurtleBot3 ROS 2 navigation stacks (Jazzy + Gazebo Harmonic) with occupancy-grid mapping and reactive obstacle avoidance.
+- Decentralized multi-robot formation control (e-puck robots, Webots) using CasADi/IPOPT MPC, with emitter/receiver communication and connectivity maintenance between agents.
+- Extending TurtleBot3 ROS 2 navigation stacks (Jazzy + Gazebo Harmonic) with occupancy-grid mapping and reactive obstacle avoidance.
 
 
 Featured projects
 
 
-TurtleBot3 2D Occupancy-Grid Mapping & A* Navigation (Webots) — LIDAR-based occupancy-grid mapping, A* global planning with corner-aware smoothing, and closed-loop waypoint following with a reactive safety layer.
-Kinematic Engine & Interactive Visualizer — 3-DOF planar arm with forward kinematics, SLERP interpolation, and inverse kinematics via damped least squares.
+- ![TurtleBot3 2D Occupancy-Grid Mapping & A* Navigation (Webots)](https://github.com/Mayank-Chandra/TurtleBot3-2D-Occupancy-Grid-Mapping-A-Navigation-Webots) — LIDAR-based occupancy-grid mapping, A* global planning with corner-aware smoothing, and closed-loop waypoint following with a reactive safety layer.
+- ![Kinematic Engine & Interactive Visualizer](https://github.com/Mayank-Chandra/Kinematic_Engine_and_Interactive_Visualizer) — 3-DOF planar arm with forward kinematics, SLERP interpolation, and inverse kinematics via damped least squares.
 
 ---
 Tools that I learned throughout my journey... <br>
