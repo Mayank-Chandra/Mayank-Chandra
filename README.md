@@ -33,10 +33,7 @@
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mayank-chandra-92420122a/)
 - ✉️ mayank.chandra1612@gmail.com
-
----
-
-From [Mayank](https://github.com/Mayank-Chandra)  
+ 
 
 ---
 ## Currently working on
