@@ -15,27 +15,6 @@
 
 ---
 
-## Tech Toolbox  
-
- **Languages & Tools**  
-- Python  
-- ROS and ROS2  
-- MATLAB
-- OpenCV  
-- Linux
-- Ubuntu
-- Git  
-
----
-
-
-##  Let’s Connect  
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/mayank-chandra-92420122a/)
-- ✉️ mayank.chandra1612@gmail.com
- 
-
----
 ## Currently working on
 
 
@@ -49,6 +28,13 @@ Featured projects
 - [TurtleBot3 2D Occupancy-Grid Mapping & A* Navigation (Webots)](https://github.com/Mayank-Chandra/TurtleBot3-2D-Occupancy-Grid-Mapping-A-Navigation-Webots) — LIDAR-based occupancy-grid mapping, A* global planning with corner-aware smoothing, and closed-loop waypoint following with a reactive safety layer.
 - [Kinematic Engine & Interactive Visualizer](https://github.com/Mayank-Chandra/Kinematic_Engine_and_Interactive_Visualizer) — 3-DOF planar arm with forward kinematics, SLERP interpolation, and inverse kinematics via damped least squares.
 
+---
+
+##  Let’s Connect  
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mayank-chandra-92420122a/)
+- ✉️ mayank.chandra1612@gmail.com
+ 
 ---
 Tools that I learned throughout my journey... <br>
 ---
