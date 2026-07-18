@@ -1,4 +1,4 @@
-# Hello Everyone!! My name is Mayank.
+# Hello I'm Mayank Chandra
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mayank-Chandra&color=blueviolet)  
 ![GitHub followers](https://img.shields.io/github/followers/Mayank-Chandra?label=Followers&style=social)  
